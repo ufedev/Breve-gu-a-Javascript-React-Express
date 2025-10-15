@@ -5,3 +5,6 @@ Esta mini ***guia** tiene todo lo necesario para comenzar a utilizar React/Expre
 - [Metodos de objetos](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/MetodosObjetos.md)
 - [Guia de Express.js](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/Expressjs.md)
 - [Guia de React](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/ReactGuia.md)
+- [Componente de React](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/ComponenteReact.md)
+- [ORM](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/ORM.md)
+- [MetodosHTTP](https://github.com/ufedev/Breve-gu-a-Javascript-React-Express/blob/main/MetodosHTTP.md)
